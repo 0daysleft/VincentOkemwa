@@ -16,7 +16,7 @@ Maybe it's building a  simple portfolio website or  adding some interactive elem
 
 I'm excited to take on new challenges and  deliver beautiful and functional user interfaces that showcase my developing skills!
 
-Let's connect!  Feel free to reach out on Twitter (@whiteangelke) or shoot me an email at [vincentarasa254@gmail.com].
+Let's connect!  Feel free to reach out on Twitter (https://twitter.com/whiteangelke) or shoot me an email at [vincentarasa254@gmail.com].
 
 I'm always down to chat about web development, the latest technologies, or maybe even grab a virtual coffee and discuss some  creative UI/UX project ideas!
 
